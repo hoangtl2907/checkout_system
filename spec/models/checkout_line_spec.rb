@@ -1,5 +1,3 @@
-require 'models/checkout_line'
-
 RSpec.describe CheckoutLine do
 
   context 'Without promotional rules' do
